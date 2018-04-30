@@ -1,0 +1,56 @@
+<html>
+<head>
+ <style>
+    .content {
+      max-width: 500px;
+      margin: auto;
+      background: white;
+      padding: 15px;
+    }
+</style>
+</head>
+  
+  <body bgcolor="#E6E6FA">
+
+<h1 "primary-text">Anne Lloyd Francis</h1>
+<h2>1930 - 2011</h2>
+<!---<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Anne_Francis-publicity.JPG/220px-Anne_Francis-publicity.JPG" alt="Anne Francis posing"></img>-->
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Anne_Francis-publicity.JPG/220px-Anne_Francis-publicity.JPG" alt="Anne Francis Posing" Align="top">"Lunch is over. You didn't say anything about not coming in for coffee. Well, you didn't, did you? "</p>
+
+<h3> Here is a brief timeline of Anne Francis's Life:</h3>
+
+<ul>
+  <li>1930-Born in Ossining, New York</li>
+  <li>1935-Model</li>
+  <li>1941-Debut on Broadway</li>
+  <li>2011-Death in Santa Barbara, California</li>
+</ul>
+
+<h4> Here is a list of movies she starred in:</h4>
+
+<ul>
+  <li>This time for Keeps</li>
+  <li>Summer Holiday</li>
+  <li>Portrait of Jennie</li>
+  <li>So Young, So Bad</li>
+  <li>The Whistle at Eaton Falls</li>
+  <li>Elopment</li>
+  <li>Lydia Bailey</li>
+  <li>Dreamboat</li>
+  <li>A Lion is in the Streets</li>
+  <li>The Rocket Man</li>
+  <li>Susan Slept Here</li>
+  <li>Rogue Cop</li>
+  <li>Bad Day at Black Rock</li>
+  <li>Battle Cry</li>
+  <li>Blackboard Jungle</li>
+  <li>The Forbidden Planet</li>
+  <li>Many more for a complete list check the link below</li>
+</ul>
+
+<h5> 
+
+<h6> If you would like to know more about Anne Francis and everything she did check out her <a href="https://en.wikipedia.org/wiki/Anne_Francis">Wikipedia Page.</a></h6>
+  
+  </body>  
+  </html>
